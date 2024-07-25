@@ -1,8 +1,8 @@
 {
-    "name": "Wasi Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
+    "name": "Devil_Cat-V2.0 Session Generator",
+    "description": "I'm Web Session Generator by LORD NAME AND BADBOI ",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "repository": "https://github.com/BADBOI-v1/SESSION-GENERATOR",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
