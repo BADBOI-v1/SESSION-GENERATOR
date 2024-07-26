@@ -14,9 +14,9 @@
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/263785028126)
+[`ℹ️Contact Owner`](https://wa.me/2348140825959)
 
-[!FORK Cod3Uchiha]•https://github.com/Cod3Uchiha/SESSION-GENERATOR/fork
+[!FORK Cod3Uchiha]•https://github.com/BADBOI-v1/SESSION-GENERATOR/fork
 
 Now Deploy
     <br>
